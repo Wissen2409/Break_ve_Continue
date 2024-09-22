@@ -1,0 +1,14 @@
+/Users/emrahelis/Desktop/Break_ve_Continue/bin/Debug/net8.0/Break_ve_Continue
+/Users/emrahelis/Desktop/Break_ve_Continue/bin/Debug/net8.0/Break_ve_Continue.deps.json
+/Users/emrahelis/Desktop/Break_ve_Continue/bin/Debug/net8.0/Break_ve_Continue.runtimeconfig.json
+/Users/emrahelis/Desktop/Break_ve_Continue/bin/Debug/net8.0/Break_ve_Continue.dll
+/Users/emrahelis/Desktop/Break_ve_Continue/bin/Debug/net8.0/Break_ve_Continue.pdb
+/Users/emrahelis/Desktop/Break_ve_Continue/obj/Debug/net8.0/Break_ve_Continue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Desktop/Break_ve_Continue/obj/Debug/net8.0/Break_ve_Continue.AssemblyInfoInputs.cache
+/Users/emrahelis/Desktop/Break_ve_Continue/obj/Debug/net8.0/Break_ve_Continue.AssemblyInfo.cs
+/Users/emrahelis/Desktop/Break_ve_Continue/obj/Debug/net8.0/Break_ve_Continue.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Desktop/Break_ve_Continue/obj/Debug/net8.0/Break_ve_Continue.dll
+/Users/emrahelis/Desktop/Break_ve_Continue/obj/Debug/net8.0/refint/Break_ve_Continue.dll
+/Users/emrahelis/Desktop/Break_ve_Continue/obj/Debug/net8.0/Break_ve_Continue.pdb
+/Users/emrahelis/Desktop/Break_ve_Continue/obj/Debug/net8.0/Break_ve_Continue.genruntimeconfig.cache
+/Users/emrahelis/Desktop/Break_ve_Continue/obj/Debug/net8.0/ref/Break_ve_Continue.dll
